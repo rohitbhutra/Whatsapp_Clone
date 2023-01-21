@@ -1,5 +1,5 @@
 const express = require('express');
-const GroupMessage = require('./models/groupmessage');
+const GroupMessage = require('./groupmessage');
 const port = 3000;
 
 
